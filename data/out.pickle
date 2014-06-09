@@ -1,0 +1,2776 @@
+(dp0
+I1243008000
+(dp1
+S'name'
+p2
+S'Matthew Norman'
+p3
+sS'title'
+p4
+S'Search for Non-Standard Model Signatures in the WZ/ZZ Final'
+p5
+sS'gender'
+p6
+S'male'
+p7
+sS'research'
+p8
+S'High Energy'
+p9
+sS'epoch'
+p10
+I1243008000
+sS'place'
+p11
+S'Mayer Hall'
+p12
+sS'advisor'
+p13
+S'Frank Wuerthwein'
+p14
+sS'date'
+p15
+cdatetime
+datetime
+p16
+(S'\x07\xd9\x05\x16\t\x00\x00\x00\x00\x00'
+p17
+tp18
+Rp19
+ssI1401811200
+(dp20
+g2
+S'Zhoushen Huang'
+p21
+sg4
+S'Topics in topological band systems'
+p22
+sg6
+g7
+sg8
+S'Condensed Matter'
+p23
+sg10
+I1401811200
+sg11
+g12
+sg13
+S'Dan Arovas'
+p24
+sg15
+g16
+(S'\x07\xde\x06\x03\t\x00\x00\x00\x00\x00'
+p25
+tp26
+Rp27
+ssI1367427600
+(dp28
+g2
+S'Yaniv Rosen'
+p29
+sg4
+S'Superconducting vortex pinning with artificially prepared nanostructures'
+p30
+sg6
+g7
+sg8
+g23
+sg10
+I1367427600
+sg11
+g12
+sg13
+S'Ivan Schuller'
+p31
+sg15
+g16
+(S'\x07\xdd\x05\x01\n\x00\x00\x00\x00\x00'
+p32
+tp33
+Rp34
+ssI1239039000
+(dp35
+g2
+S'David Collins'
+p36
+sg4
+S'Star Formation with Adaptive Mesh Refinement and'
+p37
+sg6
+g7
+sg8
+S'Astrophysics'
+p38
+sg10
+I1239039000
+sg11
+S'SERF'
+p39
+sg13
+S'Michael Norman'
+p40
+sg15
+g16
+(S'\x07\xd9\x04\x06\n\x1e\x00\x00\x00\x00'
+p41
+tp42
+Rp43
+ssI1319047200
+(dp44
+g2
+S'Elizabeth Dusinberre Sudano'
+p45
+sg4
+S'A search for excited electrons with the CMS detector'
+p46
+sg6
+S'female'
+p47
+sg8
+g9
+sg10
+I1319047200
+sg11
+g12
+sg13
+S'James Branson'
+p48
+sg15
+g16
+(S'\x07\xdb\n\x13\x0b\x00\x00\x00\x00\x00'
+p49
+tp50
+Rp51
+ssI1345230000
+(dp52
+g2
+S'Micha Adler'
+p53
+sg4
+S'Microfluidics for Quantitative Biology'
+p54
+sg6
+g7
+sg8
+S'Biophysics'
+p55
+sg10
+I1345230000
+sg11
+g12
+sg13
+S'Alexander Groisman'
+p56
+sg15
+g16
+(S'\x07\xdc\x08\x11\x0c\x00\x00\x00\x00\x00'
+p57
+tp58
+Rp59
+ssI1307125800
+(dp60
+g2
+S'Arthur Evans'
+p61
+sg4
+S'The shape of things to come: examining the interplay of'
+p62
+sg6
+g7
+sg8
+g55
+sg10
+I1307125800
+sg11
+g12
+sg13
+S'Eric Lauga'
+p63
+sg15
+g16
+(S'\x07\xdb\x06\x03\x0b\x1e\x00\x00\x00\x00'
+p64
+tp65
+Rp66
+ssI1340042400
+(dp67
+g2
+S'John F Cherry'
+p68
+sg4
+S'Neutrino Flavor Transformation in Core-Collapse Supernovae'
+p69
+sg6
+g7
+sg8
+g38
+sg10
+I1340042400
+sg11
+g39
+sg13
+S'George Fuller'
+p70
+sg15
+g16
+(S'\x07\xdc\x06\x12\x0b\x00\x00\x00\x00\x00'
+p71
+tp72
+Rp73
+ssI1278954000
+(dp74
+g2
+S'Novimir Pablant'
+p75
+sg4
+S'Development of the B-Stark motional Stark effect diagnostic'
+p76
+sg6
+g7
+sg8
+g38
+sg10
+I1278954000
+sg11
+g39
+sg13
+S'Pat Diamond'
+p77
+sg15
+g16
+(S'\x07\xda\x07\x0c\n\x00\x00\x00\x00\x00'
+p78
+tp79
+Rp80
+ssI1319571000
+(dp81
+g2
+S'Aleksandar Simic'
+p82
+sg4
+S'Sub-Wavelength Resonant Structures at Microwave and Optical Frequencies'
+p83
+sg6
+g7
+sg8
+g23
+sg10
+I1319571000
+sg11
+g12
+sg13
+S'Yeshaiahu Fainman'
+p84
+sg15
+g16
+(S'\x07\xdb\n\x19\x0c\x1e\x00\x00\x00\x00'
+p85
+tp86
+Rp87
+ssI1318017600
+(dp88
+g2
+S'Margaret Stewart'
+p89
+sg4
+S'Optical Spectroscopy of Correlated Oxides'
+p90
+sg6
+g47
+sg8
+g23
+sg10
+I1318017600
+sg11
+g12
+sg13
+S'Dimitri Basov'
+p91
+sg15
+g16
+(S'\x07\xdb\n\x07\r\x00\x00\x00\x00\x00'
+p92
+tp93
+Rp94
+ssI1338933600
+(dp95
+g2
+S'Yusuke Kosuga'
+p96
+sg4
+S'Macroscopic implications from phase space dynamics of tokamak'
+p97
+sg6
+g7
+sg8
+g38
+sg10
+I1338933600
+sg11
+g12
+sg13
+S'Pat Diamond'
+p98
+sg15
+g16
+(S'\x07\xdc\x06\x05\x0f\x00\x00\x00\x00\x00'
+p99
+tp100
+Rp101
+ssI1274810400
+(dp102
+g2
+S'John Lewis'
+p103
+sg4
+S'Lung tumor tracking, trajectory reconstruction,'
+p104
+sg6
+g7
+sg8
+g55
+sg10
+I1274810400
+sg11
+g12
+sg13
+S'Steve Jiang'
+p105
+sg15
+g16
+(S'\x07\xda\x05\x19\x0b\x00\x00\x00\x00\x00'
+p106
+tp107
+Rp108
+ssI1244233800
+(dp109
+g2
+S'Hao Xu'
+p110
+sg4
+S'The AGN Origin of Cluster Magnetic Fields'
+p111
+sg6
+g7
+sg8
+g38
+sg10
+I1244233800
+sg11
+g39
+sg13
+S'Michael Norman'
+p112
+sg15
+g16
+(S'\x07\xd9\x06\x05\r\x1e\x00\x00\x00\x00'
+p113
+tp114
+Rp115
+ssI1330038000
+(dp116
+g2
+S'Aleksandr Rodin'
+p117
+sg4
+S'Electronic Properties of Low-Dimensional Systems'
+p118
+sg6
+g7
+sg8
+g23
+sg10
+I1330038000
+sg11
+g12
+sg13
+S'Michael Fogler'
+p119
+sg15
+g16
+(S'\x07\xdc\x02\x17\x0f\x00\x00\x00\x00\x00'
+p120
+tp121
+Rp122
+ssI1303506000
+(dp123
+g2
+S'Derek Van Orden'
+p124
+sg4
+S"Green's Function Analysis of Periodic Structures in"
+p125
+sg6
+g7
+sg8
+g23
+sg10
+I1303506000
+sg11
+g12
+sg13
+S'Vitaliy Lomakin'
+p126
+sg15
+g16
+(S'\x07\xdb\x04\x16\x0e\x00\x00\x00\x00\x00'
+p127
+tp128
+Rp129
+ssI1337880600
+(dp130
+g2
+S'Mark Kostuk'
+p131
+sg4
+S'Synchronization and Statistical Methods for the Data Assimilation of HVc Neuron Models'
+p132
+sg6
+g7
+sg8
+g55
+sg10
+I1337880600
+sg11
+g12
+sg13
+S'Henry Abarbanel'
+p133
+sg15
+g16
+(S'\x07\xdc\x05\x18\n\x1e\x00\x00\x00\x00'
+p134
+tp135
+Rp136
+ssI1389204000
+(dp137
+g2
+S'Feifei Wei'
+p138
+sg4
+S''
+p139
+sg6
+g47
+sg8
+g23
+sg10
+I1389204000
+sg11
+g12
+sg13
+S'Zhaowei Liu'
+p140
+sg15
+g16
+(S'\x07\xde\x01\x08\n\x00\x00\x00\x00\x00'
+p141
+tp142
+Rp143
+ssI1288648800
+(dp144
+g2
+S'Corneliu N Colesniuc'
+p145
+sg4
+S'Metallophthalocyanine thin films: structure and physical'
+p146
+sg6
+g7
+sg8
+g23
+sg10
+I1288648800
+sg11
+g12
+sg13
+S'Ivan Schuller'
+p147
+sg15
+g16
+(S'\x07\xda\x0b\x01\x0f\x00\x00\x00\x00\x00'
+p148
+tp149
+Rp150
+ssI1379523600
+(dp151
+g2
+S'Ryan Kelley'
+p152
+sg4
+S'Search for New Physics in Proton-Proton Collisions at 8 TeV Center of Mass Energy with a Final State of Same-Sign Dileptons and Jets'
+p153
+sg6
+g7
+sg8
+g9
+sg10
+I1379523600
+sg11
+g12
+sg13
+S'Avi Yagil'
+p154
+sg15
+g16
+(S'\x07\xdd\t\x12\n\x00\x00\x00\x00\x00'
+p155
+tp156
+Rp157
+ssI1243635300
+(dp158
+g2
+S'Andrew Meyertholen'
+p159
+sg4
+S'Characteristics of Charge Carriers in Nanostructures'
+p160
+sg6
+g7
+sg8
+g23
+sg10
+I1243635300
+sg11
+g12
+sg13
+S'Michael Fogler'
+p161
+sg15
+g16
+(S'\x07\xd9\x05\x1d\x0f\x0f\x00\x00\x00\x00'
+p162
+tp163
+Rp164
+ssI1402095600
+(dp165
+g2
+S'Wendell Misch'
+p166
+sg4
+S'Weak Interactions of Hot Nuclei in Stellar Collapse.'
+p167
+sg6
+g7
+sg8
+g38
+sg10
+I1402095600
+sg11
+g39
+sg13
+S'George Fuller'
+p168
+sg15
+g16
+(S'\x07\xde\x06\x06\x10\x00\x00\x00\x00\x00'
+p169
+tp170
+Rp171
+ssI1337709600
+(dp172
+g2
+S'Grigor Aslanyan'
+p173
+sg4
+S'Implications about the Large Scale Properties of the Universe from the Cosmic Microwave Background'
+p174
+sg6
+g7
+sg8
+g9
+sg10
+I1337709600
+sg11
+g12
+sg13
+S'Aneesh Manohar'
+p175
+sg15
+g16
+(S'\x07\xdc\x05\x16\x0b\x00\x00\x00\x00\x00'
+p176
+tp177
+Rp178
+ssI1241821800
+(dp179
+g2
+S'Jacob Stevenson'
+p180
+sg4
+S'Cooperative Motions in Supercooled Liquids and Glasses'
+p181
+sg6
+g7
+sg8
+g55
+sg10
+I1241821800
+sg11
+g12
+sg13
+S'Peter Wolynes'
+p182
+sg15
+g16
+(S'\x07\xd9\x05\x08\x0f\x1e\x00\x00\x00\x00'
+p183
+tp184
+Rp185
+ssI1363194000
+(dp186
+g2
+S'Benjamin Migliori'
+p187
+sg4
+S'Physical methods for generating and decoding neural activity in Hirudo verbana'
+p188
+sg6
+g7
+sg8
+g55
+sg10
+I1363194000
+sg11
+S'NSB'
+p189
+sg13
+S'William Kristan Jr'
+p190
+sg15
+g16
+(S'\x07\xdd\x03\r\n\x00\x00\x00\x00\x00'
+p191
+tp192
+Rp193
+ssI1236121200
+(dp194
+g2
+S'Virginia Vandelinder'
+p195
+sg4
+S'Microfluidics for blood component separation, medium'
+p196
+sg6
+g47
+sg8
+g55
+sg10
+I1236121200
+sg11
+g12
+sg13
+S'Alexander Groisman'
+p197
+sg15
+g16
+(S'\x07\xd9\x03\x03\x0f\x00\x00\x00\x00\x00'
+p198
+tp199
+Rp200
+ssI1279665000
+(dp201
+g2
+S'Lingfeng M Zhang'
+p202
+sg4
+S'Interaction and transport in low-dimensional carbon'
+p203
+sg6
+g7
+sg8
+g23
+sg10
+I1279665000
+sg11
+g12
+sg13
+S'Michael Fogler'
+p204
+sg15
+g16
+(S'\x07\xda\x07\x14\x0f\x1e\x00\x00\x00\x00'
+p205
+tp206
+Rp207
+ssI1284670800
+(dp208
+g2
+S'Jack Quinn'
+p209
+sg4
+S'A Path Integral Approach to Data Assimilation'
+p210
+sg6
+g7
+sg8
+g55
+sg10
+I1284670800
+sg11
+S'CMRR'
+p211
+sg13
+S'Henry Abarbanel'
+p212
+sg15
+g16
+(S'\x07\xda\t\x10\x0e\x00\x00\x00\x00\x00'
+p213
+tp214
+Rp215
+ssI1243020600
+(dp216
+g2
+S'Jui-Yu Mannie Chiu'
+p217
+sg4
+S'Electroweak Corrections using EFT methods:Factorization and'
+p218
+sg6
+g47
+sg8
+g9
+sg10
+I1243020600
+sg11
+g12
+sg13
+S'Aneesh Manohar'
+p219
+sg15
+g16
+(S'\x07\xd9\x05\x16\x0c\x1e\x00\x00\x00\x00'
+p220
+tp221
+Rp222
+ssI1401897600
+(dp223
+g2
+S'Christopher Murphy'
+p224
+sg4
+S'Topics in Physics Beyond the Standard Model in the LHC Run 1 Era'
+p225
+sg6
+g7
+sg8
+g9
+sg10
+I1401897600
+sg11
+g189
+sg13
+S'Benjamin Grinstein'
+p226
+sg15
+g16
+(S'\x07\xde\x06\x04\t\x00\x00\x00\x00\x00'
+p227
+tp228
+Rp229
+ssI1344369600
+(dp230
+g2
+S'Mark Polinkovsky'
+p231
+sg4
+S'Microfluidic Advantage: Novel Techniques for Protein Folding and Oxygen Control in Cell Cultures'
+p232
+sg6
+g7
+sg8
+g55
+sg10
+I1344369600
+sg11
+g12
+sg13
+S'Alexander Groisman'
+p233
+sg15
+g16
+(S'\x07\xdc\x08\x07\r\x00\x00\x00\x00\x00'
+p234
+tp235
+Rp236
+ssI1320165000
+(dp237
+g2
+S'Danying Shao'
+p238
+sg4
+S'Computational modeling on cell motility'
+p239
+sg6
+g47
+sg8
+g23
+sg10
+I1320165000
+sg11
+g12
+sg13
+S'Herbert Levine'
+p240
+sg15
+g16
+(S'\x07\xdb\x0b\x01\t\x1e\x00\x00\x00\x00'
+p241
+tp242
+Rp243
+ssI1332435600
+(dp244
+g2
+S'Jeffrey Noel'
+p245
+sg4
+S'Development and Application of All-Atom Structure-based Models for Studying the Role of Geometry in Biomolecular Folding and Function'
+p246
+sg6
+g7
+sg8
+g55
+sg10
+I1332435600
+sg11
+g12
+sg13
+S'Jose Onuchic'
+p247
+sg15
+g16
+(S'\x07\xdc\x03\x16\n\x00\x00\x00\x00\x00'
+p248
+tp249
+Rp250
+ssI1304357400
+(dp251
+g2
+S'Marc Rafelski'
+p252
+sg4
+S'Star Formation in Damped Lyman-alpha systems and the Outskirts'
+p253
+sg6
+g7
+sg8
+g38
+sg10
+I1304357400
+sg11
+g39
+sg13
+S'Art Wolfe'
+p254
+sg15
+g16
+(S'\x07\xdb\x05\x02\n\x1e\x00\x00\x00\x00'
+p255
+tp256
+Rp257
+ssI1401469200
+(dp258
+g2
+S'Kevin Huang'
+p259
+sg4
+S'Emergent phenomena in strongly correlated f-electron systems'
+p260
+sg6
+Nsg8
+g23
+sg10
+I1401469200
+sg11
+g12
+sg13
+S'Brian Maple'
+p261
+sg15
+g16
+(S'\x07\xde\x05\x1e\n\x00\x00\x00\x00\x00'
+p262
+tp263
+Rp264
+ssI1371492000
+(dp265
+g2
+S'Mikhail Erekhinskiy'
+p266
+sg4
+S'Spin transport in lateral spin valves and across a metal-insulator transition in V2O3'
+p267
+sg6
+g7
+sg8
+g23
+sg10
+I1371492000
+sg11
+g12
+sg13
+S'Ivan Schuller'
+p268
+sg15
+g16
+(S'\x07\xdd\x06\x11\x0b\x00\x00\x00\x00\x00'
+p269
+tp270
+Rp271
+ssI1368831600
+(dp272
+g2
+S'Lei Zhao'
+p273
+sg4
+S'Anomalous electron-ion energy coupling in electron drift wave turbulence'
+p274
+sg6
+g47
+sg8
+g38
+sg10
+I1368831600
+sg11
+g39
+sg13
+S'Pat Diamond'
+p275
+sg15
+g16
+(S'\x07\xdd\x05\x11\x10\x00\x00\x00\x00\x00'
+p276
+tp277
+Rp278
+ssI1314655200
+(dp279
+g2
+S'Gregory Andreev'
+p280
+sg4
+S'Infrared Nanooptics of Ultrathin Materials'
+p281
+sg6
+g7
+sg8
+g23
+sg10
+I1314655200
+sg11
+g12
+sg13
+S'Dimitri Basov'
+p282
+sg15
+g16
+(S'\x07\xdb\x08\x1d\x0f\x00\x00\x00\x00\x00'
+p283
+tp284
+Rp285
+ssI1267641000
+(dp286
+g2
+S'Laura Tucker'
+p287
+sg4
+S'A New Computational Approach To Simulate Pattern Formation in'
+p288
+sg6
+g47
+sg8
+g23
+sg10
+I1267641000
+sg11
+g12
+sg13
+S'Herbert Levine'
+p289
+sg15
+g16
+(S'\x07\xda\x03\x03\n\x1e\x00\x00\x00\x00'
+p290
+tp291
+Rp292
+ssI1401217200
+(dp293
+g2
+S'Thomas Wong'
+p294
+sg4
+S'Nonlinear Quantum Search'
+p295
+sg6
+g7
+sg8
+g23
+sg10
+I1401217200
+sg11
+g12
+sg13
+S'David Meyer'
+p296
+sg15
+g16
+(S'\x07\xde\x05\x1b\x0c\x00\x00\x00\x00\x00'
+p297
+tp298
+Rp299
+ssI1243011600
+(dp300
+g2
+S'Randall Kelley'
+p301
+sg4
+S'Electroweak Gauge Boson Production using Effective Field Theory'
+p302
+sg6
+g7
+sg8
+g9
+sg10
+I1243011600
+sg11
+g12
+sg13
+S'Aneesh Manohar'
+p303
+sg15
+g16
+(S'\x07\xd9\x05\x16\n\x00\x00\x00\x00\x00'
+p304
+tp305
+Rp306
+ssI1367960400
+(dp307
+g2
+S'Yi Li'
+p308
+sg4
+S'Topological States in Condensed Matter and Cold Atom Systems'
+p309
+sg6
+g47
+sg8
+g23
+sg10
+I1367960400
+sg11
+g12
+sg13
+S'Congjun Wu'
+p310
+sg15
+g16
+(S'\x07\xdd\x05\x07\x0e\x00\x00\x00\x00\x00'
+p311
+tp312
+Rp313
+ssI1371751200
+(dp314
+g2
+S'Mikas Remeika'
+p315
+sg4
+S'Excitons in Electrostatic Lattices'
+p316
+sg6
+g7
+sg8
+g23
+sg10
+I1371751200
+sg11
+g12
+sg13
+S'Leonid Butov'
+p317
+sg15
+g16
+(S'\x07\xdd\x06\x14\x0b\x00\x00\x00\x00\x00'
+p318
+tp319
+Rp320
+ssI1389128400
+(dp321
+g2
+S'San-Wen Chen'
+p322
+sg4
+S'X-ray and Neutron Scattering Studies of Magnetic Domain Dynamics and Spin Structure'
+p323
+sg6
+g7
+sg8
+g23
+sg10
+I1389128400
+sg11
+g12
+sg13
+S'Sunil Sinha'
+p324
+sg15
+g16
+(S'\x07\xde\x01\x07\r\x00\x00\x00\x00\x00'
+p325
+tp326
+Rp327
+ssI1368221400
+(dp328
+g2
+S'Barrett Deris'
+p329
+sg4
+S'The Structure of Fitness Landscapes in Antibiotic Resistant Bacteria: Molecular Origins and Evolutionary Consequences'
+p330
+sg6
+g7
+sg8
+g55
+sg10
+I1368221400
+sg11
+g12
+sg13
+S'Terence Hwa'
+p331
+sg15
+g16
+(S'\x07\xdd\x05\n\x0e\x1e\x00\x00\x00\x00'
+p332
+tp333
+Rp334
+ssI1337623200
+(dp335
+g2
+S'Shenshen Wang'
+p336
+sg4
+S'Statistical Mechanics of the Cytoskeleton'
+p337
+sg6
+g47
+sg8
+g55
+sg10
+I1337623200
+sg11
+S'VizLab'
+p338
+sg13
+S'Peter Wolynes'
+p339
+sg15
+g16
+(S'\x07\xdc\x05\x15\x0b\x00\x00\x00\x00\x00'
+p340
+tp341
+Rp342
+ssI1370469600
+(dp343
+g2
+S'Andreas Stergiou'
+p344
+sg4
+S'A tale of scale, conformal, and superconformal invariance'
+p345
+sg6
+g7
+sg8
+g9
+sg10
+I1370469600
+sg11
+g12
+sg13
+S'Kenneth Intriligator'
+p346
+sg15
+g16
+(S'\x07\xdd\x06\x05\x0f\x00\x00\x00\x00\x00'
+p347
+tp348
+Rp349
+ssI1402434000
+(dp350
+g2
+S'Ivy Lum'
+p351
+sg4
+S'Correlated Electron Behavior in Single crystals grown by molten metal growth: MnAs and Ce1-xYbxCoIn5'
+p352
+sg6
+Nsg8
+g23
+sg10
+I1402434000
+sg11
+g12
+sg13
+S'Brian Maple'
+p353
+sg15
+g16
+(S'\x07\xde\x06\n\x0e\x00\x00\x00\x00\x00'
+p354
+tp355
+Rp356
+ssI1363039200
+(dp357
+g2
+S'Aaron Day'
+p358
+sg4
+S'An analysis of astrophysics and fundamental physics from the Lyman-alpha forest'
+p359
+sg6
+g7
+sg8
+g38
+sg10
+I1363039200
+sg11
+g39
+sg13
+S'David Tytler'
+p360
+sg15
+g16
+(S'\x07\xdd\x03\x0b\x0f\x00\x00\x00\x00\x00'
+p361
+tp362
+Rp363
+ssI1229727600
+(dp364
+g2
+S'Ryan Baumbach'
+p365
+sg4
+S'Strongly correlated electron behavior in As-based and thin'
+p366
+sg6
+g7
+sg8
+g23
+sg10
+I1229727600
+sg11
+g12
+sg13
+S'Brian Maple'
+p367
+sg15
+g16
+(S'\x07\xd8\x0c\x13\x0f\x00\x00\x00\x00\x00'
+p368
+tp369
+Rp370
+ssI1315522800
+(dp371
+g2
+S'Alexander Schafgans'
+p372
+sg4
+S'Optical properties of strongly correlated matter'
+p373
+sg6
+g7
+sg8
+g23
+sg10
+I1315522800
+sg11
+g189
+sg13
+S'Dimitri Basov'
+p374
+sg15
+g16
+(S'\x07\xdb\t\x08\x10\x00\x00\x00\x00\x00'
+p375
+tp376
+Rp377
+ssI1386268200
+(dp378
+g2
+S'Yan Graves'
+p379
+sg4
+S'Computational and Physical Quality Assurance Tools for Radiotherapy'
+p380
+sg6
+g47
+sg8
+g55
+sg10
+I1386268200
+sg11
+g12
+sg13
+S'Steve Jiang'
+p381
+sg15
+g16
+(S'\x07\xdd\x0c\x05\n\x1e\x00\x00\x00\x00'
+p382
+tp383
+Rp384
+ssI1401987600
+(dp385
+g2
+S'Alexander Mendez'
+p386
+sg4
+S'Multi-wavelength population studies of Active Galactic Nuclei and Galaxies using PRIMUS and AEGIS'
+p387
+sg6
+Nsg8
+g38
+sg10
+I1401987600
+sg11
+g39
+sg13
+S'Alison Coil'
+p388
+sg15
+g16
+(S'\x07\xde\x06\x05\n\x00\x00\x00\x00\x00'
+p389
+tp390
+Rp391
+ssI1242162000
+(dp392
+g2
+S'Paul Whitford'
+p393
+sg4
+S'Energy Landscapes of Biomolecular Function'
+p394
+sg6
+g7
+sg8
+g55
+sg10
+I1242162000
+sg11
+S'Urey Hall'
+p395
+sg13
+S'Jose Onuchic'
+p396
+sg15
+g16
+(S'\x07\xd9\x05\x0c\x0e\x00\x00\x00\x00\x00'
+p397
+tp398
+Rp399
+ssI1294444800
+(dp400
+g2
+S'Michael W Anderson'
+p401
+sg4
+S'Effects of Collisions and Finite Length on Plasma Waves in a'
+p402
+sg6
+g7
+sg8
+S'Plasma Physics'
+p403
+sg10
+I1294444800
+sg11
+g12
+sg13
+S"Thomas O'Neil"
+p404
+sg15
+g16
+(S'\x07\xdb\x01\x07\x10\x00\x00\x00\x00\x00'
+p405
+tp406
+Rp407
+ssI1339434000
+(dp408
+g2
+S'Ashish Tripathi'
+p409
+sg4
+S'Dichroic Coherent Diffractive Imaging'
+p410
+sg6
+g7
+sg8
+g23
+sg10
+I1339434000
+sg11
+g12
+sg13
+S'Oleg Shpyrko'
+p411
+sg15
+g16
+(S'\x07\xdc\x06\x0b\n\x00\x00\x00\x00\x00'
+p412
+tp413
+Rp414
+ssI1306945800
+(dp415
+g2
+S'Wen Chen'
+p416
+sg4
+S'Mathematical Analysis of Signaling Transduction and'
+p417
+sg6
+g47
+sg8
+g23
+sg10
+I1306945800
+sg11
+g395
+sg13
+S'Herbert Levine'
+p418
+sg15
+g16
+(S'\x07\xdb\x06\x01\t\x1e\x00\x00\x00\x00'
+p419
+tp420
+Rp421
+ssI1347901200
+(dp422
+g2
+S'Warren Andrews'
+p423
+sg4
+S'A Search for New Physics with Z Bosons, Jets, and Missing'
+p424
+sg6
+g7
+sg8
+g9
+sg10
+I1347901200
+sg11
+g12
+sg13
+S'Frank Wuerthwein'
+p425
+sg15
+g16
+(S'\x07\xdc\t\x11\n\x00\x00\x00\x00\x00'
+p426
+tp427
+Rp428
+ssI1397251800
+(dp429
+g2
+S'David Boettger'
+p430
+sg4
+S'CMB Polarization Measurements with the POLARBEAR Experiment'
+p431
+sg6
+g7
+sg8
+g38
+sg10
+I1397251800
+sg11
+g39
+sg13
+S'Hans Paar'
+p432
+sg15
+g16
+(S'\x07\xde\x04\x0b\x0e\x1e\x00\x00\x00\x00'
+p433
+tp434
+Rp435
+ssI1369933200
+(dp436
+g2
+S'Agnieszka Cieplak'
+p437
+sg4
+S'Constraining Dark Matter and Dark Energy Models Using Astrophysical Surveys'
+p438
+sg6
+g47
+sg8
+g38
+sg10
+I1369933200
+sg11
+g39
+sg13
+S'Kim Griest'
+p439
+sg15
+g16
+(S'\x07\xdd\x05\x1e\n\x00\x00\x00\x00\x00'
+p440
+tp441
+Rp442
+ssI1305912600
+(dp443
+g2
+S'Jonathan Whitmore'
+p444
+sg4
+S'The Fine-Structure Constant and Wavelength Calibration'
+p445
+sg6
+g7
+sg8
+g38
+sg10
+I1305912600
+sg11
+g39
+sg13
+S'Kim Griest'
+p446
+sg15
+g16
+(S'\x07\xdb\x05\x14\n\x1e\x00\x00\x00\x00'
+p447
+tp448
+Rp449
+ssI1340305200
+(dp450
+g2
+S'Reza Farsian'
+p451
+sg4
+S'Single Neuron Modeling and Data Assimilation in BNST System'
+p452
+sg6
+g7
+sg8
+g55
+sg10
+I1340305200
+sg11
+g12
+sg13
+S'Henry Abarbanel'
+p453
+sg15
+g16
+(S'\x07\xdc\x06\x15\x0c\x00\x00\x00\x00\x00'
+p454
+tp455
+Rp456
+ssI1395252000
+(dp457
+g2
+S'Yanjin Kuang'
+p458
+sg4
+S'Molecular beam epitaxy of dilute nitride GaNAsP as intermediate band solar cell materials'
+p459
+sg6
+g7
+sg8
+g23
+sg10
+I1395252000
+sg11
+g12
+sg13
+S'Charles Tu'
+p460
+sg15
+g16
+(S'\x07\xde\x03\x13\x0b\x00\x00\x00\x00\x00'
+p461
+tp462
+Rp463
+ssI1299178800
+(dp464
+g2
+S'Matthew Krems'
+p465
+sg4
+S'Charged Particle Dynamics of Nanopore Systems'
+p466
+sg6
+g7
+sg8
+g23
+sg10
+I1299178800
+sg11
+g12
+sg13
+S'Massimiliano Di Ventra'
+p467
+sg15
+g16
+(S'\x07\xdb\x03\x03\x0b\x00\x00\x00\x00\x00'
+p468
+tp469
+Rp470
+ssI1386615600
+(dp471
+g2
+S'Geoffrey So'
+p472
+sg4
+S'Direct Numerical Simulation of Cosmological Reionization'
+p473
+sg6
+g7
+sg8
+g38
+sg10
+I1386615600
+sg11
+g39
+sg13
+S'Michael Norman'
+p474
+sg15
+g16
+(S'\x07\xdd\x0c\t\x0b\x00\x00\x00\x00\x00'
+p475
+tp476
+Rp477
+ssI1337790600
+(dp478
+g2
+S'William Whartenby'
+p479
+sg4
+S'Methods for data assimilation in chaotic systems - examples from simple'
+p480
+sg6
+g7
+sg8
+g55
+sg10
+I1337790600
+sg11
+g12
+sg13
+S'Henry Abarbanel'
+p481
+sg15
+g16
+(S'\x07\xdc\x05\x17\t\x1e\x00\x00\x00\x00'
+p482
+tp483
+Rp484
+ssI1291059000
+(dp485
+g2
+S'Alex Winbow'
+p486
+sg4
+S'Subnanosecond control of excitons in coupled quantum well'
+p487
+sg6
+g7
+sg8
+g23
+sg10
+I1291059000
+sg11
+g12
+sg13
+S'Leonid Butov'
+p488
+sg15
+g16
+(S'\x07\xda\x0b\x1d\x0b\x1e\x00\x00\x00\x00'
+p489
+tp490
+Rp491
+ssI1322676000
+(dp492
+g2
+S'Jonathan Driscoll'
+p493
+sg4
+S'Techniques in Two-Photon Microscopy for Neuroscience'
+p494
+sg6
+g7
+sg8
+g55
+sg10
+I1322676000
+sg11
+g395
+sg13
+S'David Kleinfeld'
+p495
+sg15
+g16
+(S'\x07\xdb\x0b\x1e\n\x00\x00\x00\x00\x00'
+p496
+tp497
+Rp498
+ssI1384545600
+(dp499
+g2
+S'James Wilson'
+p500
+sg4
+S'Ionic and Electronic Transport in Nanoscale Systems'
+p501
+sg6
+g7
+sg8
+g23
+sg10
+I1384545600
+sg11
+g12
+sg13
+S'Massimiliano Di Ventra'
+p502
+sg15
+g16
+(S'\x07\xdd\x0b\x0f\x0c\x00\x00\x00\x00\x00'
+p503
+tp504
+Rp505
+ssI1398290400
+(dp506
+g2
+S'Matthew Webster'
+p507
+sg4
+S'Dynamic Modulated Brachytherapy (DMBT) and Intensity Modulated Brachytherapy (IMBT) for Treatment of Rectal and Breast Carcinomas'
+p508
+sg6
+g7
+sg8
+g55
+sg10
+I1398290400
+sg11
+g12
+sg13
+S'William Song'
+p509
+sg15
+g16
+(S'\x07\xde\x04\x17\x0f\x00\x00\x00\x00\x00'
+p510
+tp511
+Rp512
+ssI1380312900
+(dp513
+g2
+S'Eve Armstrong'
+p514
+sg4
+S'Probing the Nature of Helium Cataclysmic Variables via Photometric Studies on Multiple Timescales'
+p515
+sg6
+g47
+sg8
+g38
+sg10
+I1380312900
+sg11
+g39
+sg13
+S'Richard Rothschild'
+p516
+sg15
+g16
+(S'\x07\xdd\t\x1b\r\x0f\x00\x00\x00\x00'
+p517
+tp518
+Rp519
+ssI1307134800
+(dp520
+g2
+S'Hsiang-Hsuan Hung'
+p521
+sg4
+S'Exotic quantum magnetism and superfluidity in optical lattices'
+p522
+sg6
+g7
+sg8
+g23
+sg10
+I1307134800
+sg11
+g12
+sg13
+S'Congjun Wu'
+p523
+sg15
+g16
+(S'\x07\xdb\x06\x03\x0e\x00\x00\x00\x00\x00'
+p524
+tp525
+Rp526
+ssI1231455600
+(dp527
+g2
+S'Xuerong Liu'
+p528
+sg4
+S'X-ray diffuse scattering studies of the local structural'
+p529
+sg6
+g7
+sg8
+g23
+sg10
+I1231455600
+sg11
+g12
+sg13
+S'Sunil Sinha'
+p530
+sg15
+g16
+(S'\x07\xd9\x01\x08\x0f\x00\x00\x00\x00\x00'
+p531
+tp532
+Rp533
+ssI1339185600
+(dp534
+g2
+S'Matthew LeBourgeois'
+p535
+sg4
+S'Search for the Standard Model Higgs Boson in the Fully Leptonic WW'
+p536
+sg6
+g7
+sg8
+g9
+sg10
+I1339185600
+sg11
+g189
+sg13
+S'Vivek Sharma'
+p537
+sg15
+g16
+(S'\x07\xdc\x06\x08\r\x00\x00\x00\x00\x00'
+p538
+tp539
+Rp540
+ssI1400709600
+(dp541
+g2
+S'Sheng (Tony) Hui'
+p542
+sg4
+S'Allocation of proteome resources in E. coli'
+p543
+sg6
+g7
+sg8
+g55
+sg10
+I1400709600
+sg11
+S'Pacific Hall'
+p544
+sg13
+S'Terence Hwa'
+p545
+sg15
+g16
+(S'\x07\xde\x05\x15\x0f\x00\x00\x00\x00\x00'
+p546
+tp547
+Rp548
+ssI1244064600
+(dp549
+g2
+S'Sen Yang'
+p550
+sg4
+S'Spontaneous coherence, kinetics and pattern formation in cold'
+p551
+sg6
+g7
+sg8
+g23
+sg10
+I1244064600
+sg11
+g12
+sg13
+S'Leonid Butov'
+p552
+sg15
+g16
+(S'\x07\xd9\x06\x03\x0e\x1e\x00\x00\x00\x00'
+p553
+tp554
+Rp555
+ssI1307984400
+(dp556
+g2
+S'Bo Hu'
+p557
+sg4
+S'Theoretical Modeling of Signal Processing Systems in Biology'
+p558
+sg6
+g7
+sg8
+g23
+sg10
+I1307984400
+sg11
+g395
+sg13
+S'Herbert Levine'
+p559
+sg15
+g16
+(S'\x07\xdb\x06\r\n\x00\x00\x00\x00\x00'
+p560
+tp561
+Rp562
+ssI1313704800
+(dp563
+g2
+S'Christopher Johnson'
+p564
+sg4
+S'Investigation of the reaction of OH and CO to form H and CO2'
+p565
+sg6
+g7
+sg8
+g403
+sg10
+I1313704800
+sg11
+g12
+sg13
+S'Robert Continetti'
+p566
+sg15
+g16
+(S'\x07\xdb\x08\x12\x0f\x00\x00\x00\x00\x00'
+p567
+tp568
+Rp569
+ssI1307379600
+(dp570
+g2
+S'Diego Zocco'
+p571
+sg4
+S'Interplay of Superconductivity, Magnetism, and Density Waves'
+p572
+sg6
+g7
+sg8
+g23
+sg10
+I1307379600
+sg11
+g12
+sg13
+S'Brian Maple'
+p573
+sg15
+g16
+(S'\x07\xdb\x06\x06\n\x00\x00\x00\x00\x00'
+p574
+tp575
+Rp576
+ssI1399410000
+(dp577
+g2
+S'Adish Vartak'
+p578
+sg4
+S'Discovery of a Higgs Boson in the H to ZZ to 4 leptons channel'
+p579
+sg6
+g7
+sg8
+g9
+sg10
+I1399410000
+sg11
+g12
+sg13
+S'Vivek Sharma'
+p580
+sg15
+g16
+(S'\x07\xde\x05\x06\x0e\x00\x00\x00\x00\x00'
+p581
+tp582
+Rp583
+ssI1398205800
+(dp584
+g2
+S'Jonathan Kaufman'
+p585
+sg4
+S'Detection of degree-scale B-mode polarization and studying Cosmic Polarization Rotation with the BICEP1 and BICEP2 Telescopes'
+p586
+sg6
+g7
+sg8
+g38
+sg10
+I1398205800
+sg11
+g39
+sg13
+S'Brian Keating'
+p587
+sg15
+g16
+(S'\x07\xde\x04\x16\x0f\x1e\x00\x00\x00\x00'
+p588
+tp589
+Rp590
+ssI1307142000
+(dp591
+g2
+S'Erik Shipton'
+p592
+sg4
+S'High anisotropy materials for magnetic nanotechnologies'
+p593
+sg6
+g7
+sg8
+g38
+sg10
+I1307142000
+sg11
+S'Faculty Club'
+p594
+sg13
+S'Eric Fullerton'
+p595
+sg15
+g16
+(S'\x07\xdb\x06\x03\x10\x00\x00\x00\x00\x00'
+p596
+tp597
+Rp598
+ssI1284658200
+(dp599
+g2
+S'Toby Weber'
+p600
+sg4
+S'Tailored Charged Particle Beams from Single-Component Plasmas'
+p601
+sg6
+g7
+sg8
+g403
+sg10
+I1284658200
+sg11
+g12
+sg13
+S'Cliff Surko'
+p602
+sg15
+g16
+(S'\x07\xda\t\x10\n\x1e\x00\x00\x00\x00'
+p603
+tp604
+Rp605
+ssI1402516800
+(dp606
+g2
+S'Ryan Rowekamp'
+p607
+sg4
+S'Characterizing neural responses to natural stimuli'
+p608
+sg6
+g7
+sg8
+g55
+sg10
+I1402516800
+sg11
+S'Salk'
+p609
+sg13
+S'Tatyana Sharpee'
+p610
+sg15
+g16
+(S'\x07\xde\x06\x0b\r\x00\x00\x00\x00\x00'
+p611
+tp612
+Rp613
+ssI1337814000
+(dp614
+g2
+S'Patipan Uttayarat'
+p615
+sg4
+S'Topics in Electroweak Symmetry Breaking'
+p616
+sg6
+g7
+sg8
+g9
+sg10
+I1337814000
+sg11
+g12
+sg13
+S'Benjamin Grinstein'
+p617
+sg15
+g16
+(S'\x07\xdc\x05\x17\x10\x00\x00\x00\x00\x00'
+p618
+tp619
+Rp620
+ssI1305306000
+(dp621
+g2
+S'Evan Bierman'
+p622
+sg4
+S'Millimeter-wave Polarimetry Instrumentation and Analysis'
+p623
+sg6
+g7
+sg8
+g38
+sg10
+I1305306000
+sg11
+g39
+sg13
+S'Brian Keating'
+p624
+sg15
+g16
+(S'\x07\xdb\x05\r\n\x00\x00\x00\x00\x00'
+p625
+tp626
+Rp627
+ssI1379093400
+(dp628
+g2
+S'Yeling Dai'
+p629
+sg4
+S'Synchrotron x-ray scattering studies of rapidly evolving nanoscale interfacial systems'
+p630
+sg6
+g47
+sg8
+g23
+sg10
+I1379093400
+sg11
+g12
+sg13
+S'Oleg Shpyrko'
+p631
+sg15
+g16
+(S'\x07\xdd\t\r\n\x1e\x00\x00\x00\x00'
+p632
+tp633
+Rp634
+ssI1367863200
+(dp635
+g2
+S'Stephanie Moyerman'
+p636
+sg4
+S'Sensitive Detection of CMB B-Mode Polarization: Instrumentation and Systematics'
+p637
+sg6
+g47
+sg8
+g38
+sg10
+I1367863200
+sg11
+g39
+sg13
+S'Brian Keating'
+p638
+sg15
+g16
+(S'\x07\xdd\x05\x06\x0b\x00\x00\x00\x00\x00'
+p639
+tp640
+Rp641
+ssI1401922800
+(dp642
+g2
+S'Brian Chapler'
+p643
+sg4
+S'Infrared Spectroscopy of Novel Semiconductors'
+p644
+sg6
+g7
+sg8
+g23
+sg10
+I1401922800
+sg11
+g12
+sg13
+S'Dimitri Basov'
+p645
+sg15
+g16
+(S'\x07\xde\x06\x04\x10\x00\x00\x00\x00\x00'
+p646
+tp647
+Rp648
+ssI1375477200
+(dp649
+g2
+S'Wing Kit Lee'
+p650
+sg4
+S'Spiral Shock and Feathering Instability in Spiral Arms'
+p651
+sg6
+g7
+sg8
+g38
+sg10
+I1375477200
+sg11
+g39
+sg13
+S'Frank Shu'
+p652
+sg15
+g16
+(S'\x07\xdd\x08\x02\x0e\x00\x00\x00\x00\x00'
+p653
+tp654
+Rp655
+ssI1242667800
+(dp656
+g2
+S'Christel Smith'
+p657
+sg4
+S'Primordial Nucleosynthesis and Neutrino Physics'
+p658
+sg6
+g47
+sg8
+g38
+sg10
+I1242667800
+sg11
+g39
+sg13
+S'George Fuller'
+p659
+sg15
+g16
+(S'\x07\xd9\x05\x12\n\x1e\x00\x00\x00\x00'
+p660
+tp661
+Rp662
+ssI1316109600
+(dp663
+g2
+S'Frank Golf'
+p664
+sg4
+S'Search for New Physics in a Final State with Same-Sign Dileptons, Jets, and Missing Transverse Energy at sqrt(s) ~ 7 TeV'
+p665
+sg6
+g7
+sg8
+g9
+sg10
+I1316109600
+sg11
+g12
+sg13
+S'Avi Yagil'
+p666
+sg15
+g16
+(S'\x07\xdb\t\x0f\x0b\x00\x00\x00\x00\x00'
+p667
+tp668
+Rp669
+ssI1243965000
+(dp670
+g2
+S'Parin Dalal'
+p671
+sg4
+S'Controlling the Dynamics of Classical and Quantum Information'
+p672
+sg6
+g7
+sg8
+g23
+sg10
+I1243965000
+sg11
+g12
+sg13
+S'Lu Sham'
+p673
+sg15
+g16
+(S'\x07\xd9\x06\x02\n2\x00\x00\x00\x00'
+p674
+tp675
+Rp676
+ssI1241564400
+(dp677
+g2
+S'Chad Kishimoto'
+p678
+sg4
+S'Falling through Spacetime:  four studies in neutrino'
+p679
+sg6
+g7
+sg8
+g38
+sg10
+I1241564400
+sg11
+g39
+sg13
+S'George Fuller'
+p680
+sg15
+g16
+(S'\x07\xd9\x05\x05\x10\x00\x00\x00\x00\x00'
+p681
+tp682
+Rp683
+ssI1285617600
+(dp684
+g2
+S'Stephen Skory'
+p685
+sg4
+S"Investigating a Method of Producing 'Red and Dead' Galaxies"
+p686
+sg6
+g7
+sg8
+g38
+sg10
+I1285617600
+sg11
+g39
+sg13
+S'Mike Norman'
+p687
+sg15
+g16
+(S'\x07\xda\t\x1b\r\x00\x00\x00\x00\x00'
+p688
+tp689
+Rp690
+ssI1322762400
+(dp691
+g2
+S'Slawomir Suchy'
+p692
+sg4
+S'Cyclotron Line and Wind Studies of Galactic High Mass Xray Binaries'
+p693
+sg6
+g7
+sg8
+g38
+sg10
+I1322762400
+sg11
+g39
+sg13
+S'Richard Rothschild'
+p694
+sg15
+g16
+(S'\x07\xdb\x0c\x01\n\x00\x00\x00\x00\x00'
+p695
+tp696
+Rp697
+ssI1307638800
+(dp698
+g2
+S'Bryan Toth'
+p699
+sg4
+S'Computational Methods for Parameter Estimation in Nonlinear'
+p700
+sg6
+g7
+sg8
+g55
+sg10
+I1307638800
+sg11
+g211
+sg13
+S'Henry Abarbanel'
+p701
+sg15
+g16
+(S'\x07\xdb\x06\t\n\x00\x00\x00\x00\x00'
+p702
+tp703
+Rp704
+ssI1344889800
+(dp705
+g2
+S'Anat Burger'
+p706
+sg4
+S'Quasi-Genes: The Many-Body Theory of Gene Regulation in the'
+p707
+sg6
+g47
+sg8
+g55
+sg10
+I1344889800
+sg11
+g12
+sg13
+S'Peter Wolynes'
+p708
+sg15
+g16
+(S'\x07\xdc\x08\r\r\x1e\x00\x00\x00\x00'
+p709
+tp710
+Rp711
+ssI1354921200
+(dp712
+g2
+S'Elizabeth Rivers'
+p713
+sg4
+S'Exploring the Geometry of Circumnuclear Material in Active Galactic'
+p714
+sg6
+g47
+sg8
+g38
+sg10
+I1354921200
+sg11
+g39
+sg13
+S'Richard Rothschild'
+p715
+sg15
+g16
+(S'\x07\xdc\x0c\x07\x0f\x00\x00\x00\x00\x00'
+p716
+tp717
+Rp718
+ssI1236200400
+(dp719
+g2
+S'Liang Jin'
+p720
+sg4
+S'Direct Electron Detection in Transmission Electron Microscopy'
+p721
+sg6
+g7
+sg8
+g55
+sg10
+I1236200400
+sg11
+g395
+sg13
+S'Xuong Nguyen-Huu'
+p722
+sg15
+g16
+(S'\x07\xd9\x03\x04\r\x00\x00\x00\x00\x00'
+p723
+tp724
+Rp725
+ssI1396548000
+(dp726
+g2
+S'Jae Hyeok Yoo'
+p727
+sg4
+S'Evidence of Higgs to WW to Two Leptons and Two Neutrinos at CMS'
+p728
+sg6
+g7
+sg8
+g9
+sg10
+I1396548000
+sg11
+g12
+sg13
+S'Frank Wuerthwein'
+p729
+sg15
+g16
+(S'\x07\xde\x04\x03\x0b\x00\x00\x00\x00\x00'
+p730
+tp731
+Rp732
+ssI1243978200
+(dp733
+g2
+S'Matthew Sudano'
+p734
+sg4
+S'Topics in Supersymmetry and Supersymmetry Breaking'
+p735
+sg6
+g7
+sg8
+g9
+sg10
+I1243978200
+sg11
+g12
+sg13
+S'Kenneth Intriligator'
+p736
+sg15
+g16
+(S'\x07\xd9\x06\x02\x0e\x1e\x00\x00\x00\x00'
+p737
+tp738
+Rp739
+ssI1338573600
+(dp740
+g2
+S'Ching-Kit (Chris) Chan'
+p741
+sg4
+S'Theory and application of open quantum systems'
+p742
+sg6
+g7
+sg8
+g23
+sg10
+I1338573600
+sg11
+g12
+sg13
+S'Lu Sham'
+p743
+sg15
+g16
+(S'\x07\xdc\x06\x01\x0b\x00\x00\x00\x00\x00'
+p744
+tp745
+Rp746
+ssI1328824800
+(dp747
+g2
+S'Sifang You'
+p748
+sg4
+S'Physics of self-quenching and self-recovering Single Photon'
+p749
+sg6
+g7
+sg8
+g55
+sg10
+I1328824800
+sg11
+S'Jacobs'
+p750
+sg13
+S'Yu-Hwa Lo'
+p751
+sg15
+g16
+(S'\x07\xdc\x02\t\x0e\x00\x00\x00\x00\x00'
+p752
+tp753
+Rp754
+ssI1251147600
+(dp755
+g2
+S'Andrew LaForge'
+p756
+sg4
+S'Probing Correlated Electron Matter with Infrared Magneto-optics'
+p757
+sg6
+g7
+sg8
+g23
+sg10
+I1251147600
+sg11
+g189
+sg13
+S'Dimitri Basov'
+p758
+sg15
+g16
+(S'\x07\xd9\x08\x18\x0e\x00\x00\x00\x00\x00'
+p759
+tp760
+Rp761
+ssI1399676400
+(dp762
+g2
+S'Christopher Palmer'
+p763
+sg4
+S'Observation of and Measurements with a Higgs Boson Decaying to Two Photons'
+p764
+sg6
+g7
+sg8
+g9
+sg10
+I1399676400
+sg11
+g12
+sg13
+S'James Branson'
+p765
+sg15
+g16
+(S'\x07\xde\x05\t\x10\x00\x00\x00\x00\x00'
+p766
+tp767
+Rp768
+ssI1337189400
+(dp769
+g2
+S'Noravee Kanchanavatee'
+p770
+sg4
+S'Strongly Correlated Electron Systems in Uranium-based Compounds'
+p771
+sg6
+g7
+sg8
+g23
+sg10
+I1337189400
+sg11
+g12
+sg13
+S'Brian Maple'
+p772
+sg15
+g16
+(S'\x07\xdc\x05\x10\n\x1e\x00\x00\x00\x00'
+p773
+tp774
+Rp775
+ssI1251223200
+(dp776
+g2
+S'Scott Wylie'
+p777
+sg4
+S'Diffusive Growth and Noisy Replication: Models at the'
+p778
+sg6
+g7
+sg8
+g23
+sg10
+I1251223200
+sg11
+g12
+sg13
+S'Herbert Levine'
+p779
+sg15
+g16
+(S'\x07\xd9\x08\x19\x0b\x00\x00\x00\x00\x00'
+p780
+tp781
+Rp782
+ssI1365181200
+(dp783
+g2
+S'Diana Jeong'
+p784
+sg4
+S'Automated, all-optical cranial surgery for transcranial imaging of mouse brain.'
+p785
+sg6
+g47
+sg8
+g55
+sg10
+I1365181200
+sg11
+g12
+sg13
+S'David Kleinfeld'
+p786
+sg15
+g16
+(S'\x07\xdd\x04\x05\n\x00\x00\x00\x00\x00'
+p787
+tp788
+Rp789
+ssI1324058400
+(dp790
+g2
+S'Nathan Miller'
+p791
+sg4
+S'Illuminating the Background: Topics in Cosmic Microwave Background Polarization Research'
+p792
+sg6
+g7
+sg8
+g38
+sg10
+I1324058400
+sg11
+g39
+sg13
+S'Brian Keating'
+p793
+sg15
+g16
+(S'\x07\xdb\x0c\x10\n\x00\x00\x00\x00\x00'
+p794
+tp795
+Rp796
+ss.
