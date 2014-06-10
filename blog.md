@@ -3,11 +3,10 @@ layout: post
 title: Defense
 description: Look at some basic stats on when UCSD physics graduates defend.
 categories: python defend
-date: '2014-06-09 12:42:48'
+date: '2014-06-09 21:35:00'
 ---
 
-This past week as I prepared to defend my thesis, I thought that there were more
-defense notifications than before.
+Every time there is a PhD defense the department sends out a notification email.
 These notifications come out about a week before a student's defense, and again
 on the student's defense date.
 While two of these additional notifications were due to my defense, and a
